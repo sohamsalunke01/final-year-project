@@ -1,0 +1,2 @@
+# final-year-project
+Motor Driving School System is a Web application. It basically lets the learners or the ones who wish to get trained sign up for the motor school, ‘EazyDrive’. The system offers the users different driving courses where the user chooses the course and according to it, pricing is done. The admin panel is for driving school manager for creating courses and enroll new users and manage services.
